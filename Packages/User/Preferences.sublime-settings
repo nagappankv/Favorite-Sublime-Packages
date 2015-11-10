@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Seti.sublime-theme"
+}

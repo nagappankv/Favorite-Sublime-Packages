@@ -1,0 +1,1417 @@
+{
+	"folder_history":
+	[
+		"/E/MobileLive/CP-TMP-REPO"
+	],
+	"last_version": 3083,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"last_filter": "git status",
+				"selected_items":
+				[
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git ",
+						"Git: Pull"
+					],
+					[
+						"git fet",
+						"Git: Fetch"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"local",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"set ",
+						"Set Syntax: JSON"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"set json",
+						"Set Syntax: JSON"
+					]
+				],
+				"width": 472.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/MobileLive/CP-TMP-REPO/README-OLD.md",
+				"/E/MobileLive/CP-TMP-REPO/app/Login/js/auth.js",
+				"/E/MobileLive/CP-TMP-REPO/app/directive_templates/prepare_quote/prepare_quote_common_search.html",
+				"/E/MobileLive/CP-TMP-REPO/app/directive_templates/util/controls/collapse.html",
+				"/E/MobileLive/CP-TMP-REPO/node_modules/source-map/lib/source-map/base64.js",
+				"/E/MobileLive/CP-TMP-REPO/app/i18n/flowManagerMenu.json",
+				"/E/MobileLive/CP-TMP-REPO/app/js/services/config.js",
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"updateShoppingCartQuotePriceAndState",
+					"post",
+					"shoppingCart.id",
+					"getShoppingCartById",
+					"/uws/v1/sc/",
+					"SEARCH",
+					"$scope.customerInfo",
+					"prepareQuoteModel",
+					"getMenuOptions",
+					"buttonType == 'iconLinkButton'",
+					"_button",
+					"_button.onClick()",
+					"SEARCH",
+					"SEARCH.Add",
+					"SEARCH",
+					"SEARCH.Add Plan",
+					"commonAuthApp",
+					"ng-app",
+					"app",
+					"promiseCounter",
+					"http://10.61.16.133:8080\nhttp://10.61.16.133:8080",
+					"http://10.61.16.133:8080",
+					"/eoc",
+					"eoc"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 142.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"serviceconfig",
+						"app\\js\\services\\config.js"
+					],
+					[
+						"config",
+						"app\\js\\config.js"
+					],
+					[
+						"shoppingcartmodel",
+						"app\\js\\services\\model\\prepareQuote\\shoppingCartModel.js"
+					],
+					[
+						"customersr",
+						"app\\js\\controllers\\customerSrProducts.js"
+					],
+					[
+						"customer",
+						"app\\js\\controllers\\customerQuote.js"
+					],
+					[
+						"customersearc",
+						"app\\js\\controllers\\customerSearch.js"
+					],
+					[
+						"preparequo",
+						"app\\js\\controllers\\prepareQuote.js"
+					],
+					[
+						"flowmanmenu",
+						"app\\i18n\\flowManagerMenu.json"
+					],
+					[
+						"flow",
+						"app\\i18n\\flowManagerMenu.json"
+					],
+					[
+						"preparequoemodel",
+						"app\\js\\services\\model\\prepareQuote\\prepareQuoteModel.js"
+					],
+					[
+						"readm",
+						"README-OLD.md"
+					],
+					[
+						"index.html",
+						"app\\index.html"
+					],
+					[
+						"base",
+						"node_modules\\source-map\\lib\\source-map\\base64.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 279.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"conso",
+						"console.	console.info()"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 1169,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/js/services/model/prepareQuote/prepareQuoteModel.js",
+					"settings":
+					{
+						"buffer_size": 16029,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/js/services/model/placeOrder/PlaceOrderModel.js",
+					"settings":
+					{
+						"buffer_size": 11062,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/js/services/model/prepareQuote/shoppingCartModel.js",
+					"settings":
+					{
+						"buffer_size": 46799,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 403,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/js/config.js",
+					"settings":
+					{
+						"buffer_size": 1132,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 158,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/js/services/config.js",
+					"settings":
+					{
+						"buffer_size": 1108,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/js/controllers/prepareQuote.js",
+					"settings":
+					{
+						"buffer_size": 32444,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/i18n/flowManagerMenu.json",
+					"settings":
+					{
+						"buffer_size": 154,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/Login/Login.html",
+					"settings":
+					{
+						"buffer_size": 3534,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/js/directives/model_dialog/notes.js",
+					"settings":
+					{
+						"buffer_size": 5128,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "'use strict';\n\nrequire(['angular',\n    'controllers/locationSearch',\n    'controllers/customerSearch',\n    'controllers/customerQuote',\n    'controllers/accountsSearch',\n    'controllers/contractsSearch',\n    'controllers/customerDashboard',\n    'controllers/dashboard',\n    'controllers/customer',\n    'controllers/login',\n    'controllers/orderSearch',\n    'controllers/customer.productsServices',\n    'controllers/quotesSearch',\n    'controllers/prepareQuote',\n    'controllers/placeOrder',\n    'controllers/customerManage',\n    'controllers/customerSrProducts',\n    'services/authorization',\n    'services/principal',\n    'services/uiColumnStates',\n    'angularUiRouter',\n    'angularBreadcrumb'], function (angular) {\n    var routes = angular.module('ericssonApp.routes', ['ui.router', 'ericssonApp.services']);\n\n    routes.config(['$stateProvider', '$urlRouterProvider', '$breadcrumbProvider','$httpProvider',\n        function ($stateProvider, $urlRouterProvider, $breadcrumbProvider, $httpProvider) {\n\n            $breadcrumbProvider\n            .setOptions({\n                prefixStateName: 'dashboard',\n                templateUrl: 'partials/breadcrumb.html'\n            });\n\n            // For any unmatched url\n            $urlRouterProvider.otherwise(\"/login\");\n\n           >info\n\n            $httpProvider.defaults.useXDomain = true;\n            delete $httpProvider.defaults.headers.common[\"X-Requested-With\"];\n            $httpProvider.defaults.headers.common[\"Accept\"] = \"application/json\";\n\n        // States\n        $stateProvider\n            .state('site', {\n                'abstract': true,\n                //resolve: {\n                //    authorize: ['authorization',\n                //        function (authorization) {\n                //            return authorization.authorize();\n                //        }]\n                //}\n            })\n            .state('login', {\n                parent: 'site',\n                url: '/login',\n                data: {\n                    roles: []\n                },\n                views: {\n                    'content@': {\n                        templateUrl: 'partials/login.html',\n                        controller: 'LoginCtrl'\n                    }\n                }\n            }) .state('auth', {\n                parent: 'site',\n                url: '/auth/:token',\n                data: {\n                    roles: []\n                },\n                views: {\n                    'content@': {\n                        //templateUrl: 'partials/login.html',\n                        controller: 'LoginCtrl'\n                    }\n                }\n            })\n            .state('accessdenied', {\n                parent: 'site',\n                url: '/denied',\n                data: {\n                    roles: []\n                },\n                views: {\n                    templateUrl: 'partials/denied.html'\n                }\n            })\n            .state('dashboard', {\n                parent: 'site',\n                url: '/dashboard',\n                ncyBreadcrumb: {\n                    label: 'CSR Dashboard'\n                },\n                data: {\n                    roles: []\n                },\n                views: {\n                    'content@': {\n                        templateUrl: 'partials/dashboard.html',\n                        controller: 'DashboardCtrl'\n                    }\n                }\n            })\n            .state('search', {\n                parent: 'site',\n                url: '/search',\n                ncyBreadcrumb: {\n                    label: 'Customers'\n                },\n                data: {\n                    // hack to make sure we can't get to search page without at least one privilidge\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@': {\n                        templateUrl: 'partials/customerSearch.html',\n                        controller: 'CustomerSearchCtrl'\n                    }\n                }\n            })\n            .state('orders', {\n                parent: 'site',\n                url: '/orders',\n                ncyBreadcrumb: {\n                    label: 'Orders'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@': {\n                        templateUrl: 'partials/ordersSearch.html',\n                        controller: 'OrdersSearchCtrl'\n                    }\n                }\n            })\n            .state('customer', {\n                parent: 'site',\n                url: '/customer/:id',\n                abstract: true,\n                views: {\n                    'content@': {\n                        templateUrl: 'partials/customer.html',\n                        controller: 'CustomerCtrl'\n                    }\n                }\n            })\n            .state('customer.overview', {\n                url: '/overview',\n                ncyBreadcrumb: {\n                    label: '{{customerInfo.customerName}}',\n                    parent: 'search'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: { // setup initial overview screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('overviewState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/customer.overview.html',\n                        controller: 'CustomerDashboardCtrl'\n                    }\n                }\n            })\n            .state('customer.srproducts', {\n                url: '/srproducts',\n                ncyBreadcrumb: {\n                    label: '{{customerInfo.customerName}}',\n                    parent: 'search'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: { // setup initial overview screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('overviewState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/customer.sr.products.html',\n                        controller: 'CustomerSrProductsCtrl'\n                    }\n                }\n            })\n            .state('customer.manage', {\n                url: '/manage/:flowEngine/:flowGroup/:tabName',\n                ncyBreadcrumb: {\n                    //label: '{{customerInfo.customerName}}',\n                    label :'Create Customer',\n                    parent: 'search'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: { // setup initial overview screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('overviewState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/customer.manage.html',\n                        controller: 'CustomerManageCtrl'\n                    }\n                }\n            })\n            .state('customer.contracts', {\n                url: '/contract',\n                ncyBreadcrumb: {\n                    label: 'Customer Contracts',\n                    parent: 'customer.overview'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/contractsSearch.html',\n                        controller: 'ContractsSearchCtrl'\n                    }\n                }\n            })\n            .state('customer.contacts', {\n                url: '/contact',\n                ncyBreadcrumb: {\n                    label: 'Customer Contacts'\n                },\n                data: {\n                    roles: []\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/customer.contacts.html'\n                    }\n                }\n            })\n            .state('customer.accounts', {\n                url: '/accounts',\n                ncyBreadcrumb: {\n                    label: 'Customer Accounts',\n                    parent: 'customer.overview'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/accountsSearch.html',\n                        controller: 'AccountsSearchCtrl'\n                    }\n                }\n            })\n            .state('customer.orders', {\n                url: '/orders',\n                ncyBreadcrumb: {\n                    label: 'Orders',\n                    parent: 'customer.overview'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/ordersSearch.html',\n                        controller: 'OrdersSearchCtrl'\n                    }\n                }\n            })\n            .state('customer.locations', {\n                url: '/locations',\n                ncyBreadcrumb: {\n                    label: 'Locations',\n                    parent: 'customer.overview'\n                },\n                data: {\n                    roles: []\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/locationsSearch.html',\n                        controller: 'LocationSearchCtrl'\n                    }\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                }\n            })\n            .state('customer.products-services', {\n                url: '/products-services',\n                ncyBreadcrumb: {\n                    label: 'Customer Products/Services'\n                },\n                data: {\n                    roles: []\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/customer.products-services.html',\n                        controller: 'CustomerProductsServicesCtrl'\n                    }\n                }\n            })\n            //Order\n            .state('order', {\n                parent: 'site',\n                abstract: true,\n                url: '/order/:customerId',\n                ncyBreadcrumb: {\n                    label: 'Create New Order',\n                    parent: 'customer.overview({id: customerId })'\n                },\n                data: {\n                    roles: []\n                },\n                views: {\n                    'content@': {\n                        templateUrl: 'partials/order.html',\n                        controller: 'OrderCtrl'\n                    }\n                }\n            })\n            .state('customer.quote', {\n                url: '/quote',\n                ncyBreadcrumb: {\n                    label: 'Quotes',\n                    parent: 'customer.overview'\n                },\n                data: {\n                    // hack to make sure we can't get to search page without at least one privilidge\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/customerQuote.html',\n                        controller: 'CustomerQuoteCtrl'\n                    }\n                }\n            })\n            .state('customer.customer-name', {\n                url: '/overview',\n                ncyBreadcrumb: {\n                    //label: 'Quote ' + '{{shoppingCart.id}}',\n                    label: '{{customerInfo.customerName}}',\n                    parent: 'search'\n                },\n                data: {\n                    // hack to make sure we can't get to search page without at least one privilidge\n                    roles: []\n                }\n            })\n            .state('customer.prepare-quote', {\n                url: '/prepare-quote/:flowEngine/:scId/:tabName',\n                ncyBreadcrumb: {\n                    label: 'Prepare Quote',\n                    parent: 'customer.customer-name'\n                },\n                data: {\n                    // hack to make sure we can't get to search page without at least one privilidge\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/prepareQuote.html',\n                        controller: 'PrepareQuoteCtrl'\n                    }\n                }\n            })\n            .state('customer.place-order', {\n                url: '/order/:orderId/:tabName',\n                ncyBreadcrumb: {\n                    //label: 'Orders ' + '{{orderId}}',\n                    //parent: 'orders'\n                    label: 'Place Order',\n                    parent: 'customer.customer-name'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@customer': {\n                        templateUrl: 'partials/placeOrder.html',\n                        controller: 'PlaceOrderCtrl'\n                    }\n                }\n            })\n            .state('quotes', {\n                parent: 'site',\n                url: '/quotes',\n                ncyBreadcrumb: {\n                    label: 'Quotes'\n                },\n                data: {\n                    roles: []\n                },\n                resolve: {  // setup initial search screen UI layout state\n                    uiState: ['uiColumnStates', function (uiColumnStates) {\n                        return uiColumnStates.go('searchState');\n                    }]\n                },\n                views: {\n                    'content@': {\n                        templateUrl: 'partials/quotesSearch.html',\n                        controller: 'QuotesSearchCtrl'\n                    }\n                }\n            });\n\n            $httpProvider.interceptors\n                .push(['$q', 'AcknowledgeService' ,'$rootScope',\n                    function ($q, AcknowledgeService, $rootScope) {\n                    return {\n                        'request': function(request) {\n                            if($rootScope.promiseCounter){\n                                $rootScope.promiseCounter++;\n                            }else{\n                                $rootScope.promiseCounter = 1;\n                            }\n                            //console.log($rootScope.promiseCounter);\n                            return request;\n                        },\n                        'response': function(response) {\n                            if($rootScope.promiseCounter){\n                                $rootScope.promiseCounter--;\n                            }else{\n                                $rootScope.promiseCounter = 0;\n                            }\n                            //console.log($rootScope.promiseCounter);\n                            return response;\n                        }\n                    };\n                }]);\n\n            $httpProvider.interceptors\n                .push(['$q', 'toaster','$rootScope','AcknowledgeService', function ($q, toaster, $rootScope,AcknowledgeService) {\n                    return {\n                        responseError: function(response) {\n                            if($rootScope.promiseCounter){\n                                $rootScope.promiseCounter--;\n                            }else{\n                                $rootScope.promiseCounter = 0;\n                            }\n                            if (response.status === 0) {\n                                toaster.pop(\n                                    {\n                                        type : \"error\",\n                                        title : \"Connection Error\",\n                                        body : \"Unable to connect API server\"\n                                    }\n                                );\n                                return $q.reject(response);\n                            }\n                            else if (response.status === 404) {\n                                var messageArray = [];\n                                messageArray.push('URL : ' + response.config.url);\n                                if(response.data[0]){\n                                    if(response.data[0].reason) {\n                                        messageArray.push('Error[s] : ');\n                                        angular.forEach(response.data[0].reason.split(';'),function (message){\n                                            if(message){\n                                                messageArray.push(message);\n                                            }\n                                        });\n                                        AcknowledgeService.toastError(messageArray,\"404 - Error\");\n                                    }\n                                }else if(response.data){\n                                    if(response.data.fault && response.data.fault.details) {\n                                        messageArray.push('Error[s] : ');\n                                        angular.forEach(response.data.fault.details.split(';'),function (message){\n                                            if(message){\n                                                messageArray.push(message);\n                                            }\n                                        });\n                                        AcknowledgeService.toastError(messageArray,\"404 - Error\");\n                                    }else if(response.data.text){\n                                        messageArray.push('Error[s] : ');\n                                        messageArray.push(response.data.text);\n                                        AcknowledgeService.toastError(messageArray,\"404 - Error\");\n                                    }\n                                }\n                                return $q.reject(response);\n                            }\n                            else if (response.status === 503) {\n                                toaster.pop(\n                                    {\n                                        type: \"error\",\n                                        title: \"503 - Server Is Not Responding\",\n                                        body: 'Server is not responding'\n                                    }\n                                );\n                                return $q.reject(response);\n                            }\n                            else if (response.status === 302) {\n                                    toaster.pop(\n                                        {\n                                            type : \"error\",\n                                            title : \"302 - Moved Temporarily\",\n                                            body : 'Unable to get API Response'\n                                        }\n                                    );\n                                    return $q.reject(response);\n                            }\n                            else {\n                                return response;\n                            }\n                        }\n                    };\n            }]);\n    }]);\n\n    routes.run(['$rootScope', '$state', '$stateParams', 'authorization', 'principal', function ($rootScope, $state, $stateParams, authorization, principal) {\n        $rootScope.$on('$stateChangeStart', function (event, toState, toStateParams) {\n            $rootScope.toState = toState;\n            $rootScope.toStateParams = toStateParams;\n\n            if (principal.isIdentityResolved())\n                authorization.authorize();\n        });\n        $rootScope.$state = $state;\n        $rootScope.$stateParams = $stateParams;\n    }\n    ]);\n    return routes;\n});\n",
+					"file": "app/js/routes.js",
+					"file_size": 23226,
+					"file_write_time": 130916436191404956,
+					"settings":
+					{
+						"buffer_size": 22658,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Ericsson-OrderCapture.sublime-project",
+					"settings":
+					{
+						"buffer_size": 396,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/js/controllers/customerSearch.js",
+					"settings":
+					{
+						"buffer_size": 10745,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/directive_templates/prepare_quote/prepare_quote_common_search.html",
+					"settings":
+					{
+						"buffer_size": 2224,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 73,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/js/controllers/customerQuote.js",
+					"settings":
+					{
+						"buffer_size": 4898,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "app/js/controllers/customerSrProducts.js",
+					"settings":
+					{
+						"buffer_size": 6509,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "su",
+				"selected_items":
+				[
+					[
+						"su",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"set js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"Snippet: info",
+						"Snippet: console.info()"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"Themr: Toggle Theme Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git ",
+						"Git: Pull"
+					],
+					[
+						"git fet",
+						"Git: Fetch"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"local",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"set ",
+						"Set Syntax: JSON"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"set json",
+						"Set Syntax: JSON"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/MobileLive/CP-TMP-REPO"
+			],
+			"file_history":
+			[
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings",
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+				"/E/MobileLive/CP-TMP-REPO/README-OLD.md",
+				"/E/MobileLive/CP-TMP-REPO/app/Login/js/auth.js",
+				"/E/MobileLive/CP-TMP-REPO/app/directive_templates/prepare_quote/prepare_quote_common_search.html",
+				"/E/MobileLive/CP-TMP-REPO/app/directive_templates/util/controls/collapse.html",
+				"/E/MobileLive/CP-TMP-REPO/node_modules/source-map/lib/source-map/base64.js",
+				"/E/MobileLive/CP-TMP-REPO/app/i18n/flowManagerMenu.json",
+				"/E/MobileLive/CP-TMP-REPO/app/js/services/config.js",
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"updateShoppingCartQuotePriceAndState",
+					"post",
+					"shoppingCart.id",
+					"getShoppingCartById",
+					"/uws/v1/sc/",
+					"SEARCH",
+					"$scope.customerInfo",
+					"prepareQuoteModel",
+					"getMenuOptions",
+					"buttonType == 'iconLinkButton'",
+					"_button",
+					"_button.onClick()",
+					"SEARCH",
+					"SEARCH.Add",
+					"SEARCH",
+					"SEARCH.Add Plan",
+					"commonAuthApp",
+					"ng-app",
+					"app",
+					"promiseCounter",
+					"http://10.61.16.133:8080\nhttp://10.61.16.133:8080",
+					"http://10.61.16.133:8080",
+					"/eoc",
+					"eoc"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 17,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "app/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1169,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										459,
+										461
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 19,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "app/js/services/model/prepareQuote/prepareQuoteModel.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16029,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1775,
+										1789
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "app/js/services/model/placeOrder/PlaceOrderModel.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11062,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										693,
+										693
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "app/js/services/model/prepareQuote/shoppingCartModel.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 46799,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5341,
+										5341
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2325.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 403,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										84,
+										397
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "app/js/config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1132,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15,
+										1132
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/Nagappan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 158,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										158,
+										158
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "app/js/services/config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1108,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										923,
+										923
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "app/js/controllers/prepareQuote.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32444,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1107,
+										1107
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "app/i18n/flowManagerMenu.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 154,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										154,
+										154
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "app/Login/Login.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3534,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										572,
+										572
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "app/js/directives/model_dialog/notes.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5128,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										535,
+										535
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "app/js/routes.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22658,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1185,
+										1185
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 330.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "Ericsson-OrderCapture.sublime-project",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 396,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										392,
+										392
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "app/js/controllers/customerSearch.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10745,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5261,
+										5277
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1905.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "app/directive_templates/prepare_quote/prepare_quote_common_search.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2224,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2224,
+										2224
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 178.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": ".gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 73,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										72,
+										72
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Seti_UI/Langs/Git.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "app/js/controllers/customerQuote.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4898,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2422,
+										2422
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1283.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "app/js/controllers/customerSrProducts.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6509,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3409,
+										3432
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1650.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 18,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 142.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1014,1006,475,1662",
+			"project": "Ericsson-OrderCapture.sublime-project",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"notes.js",
+						"app\\js\\directives\\model_dialog\\notes.js"
+					],
+					[
+						"giting",
+						".gitignore"
+					],
+					[
+						"customerse",
+						"app\\js\\controllers\\customerSearch.js"
+					],
+					[
+						"serviceconfig",
+						"app\\js\\services\\config.js"
+					],
+					[
+						"config",
+						"app\\js\\config.js"
+					],
+					[
+						"shoppingcartmodel",
+						"app\\js\\services\\model\\prepareQuote\\shoppingCartModel.js"
+					],
+					[
+						"customersr",
+						"app\\js\\controllers\\customerSrProducts.js"
+					],
+					[
+						"customer",
+						"app\\js\\controllers\\customerQuote.js"
+					],
+					[
+						"customersearc",
+						"app\\js\\controllers\\customerSearch.js"
+					],
+					[
+						"preparequo",
+						"app\\js\\controllers\\prepareQuote.js"
+					],
+					[
+						"flowmanmenu",
+						"app\\i18n\\flowManagerMenu.json"
+					],
+					[
+						"flow",
+						"app\\i18n\\flowManagerMenu.json"
+					],
+					[
+						"preparequoemodel",
+						"app\\js\\services\\model\\prepareQuote\\prepareQuoteModel.js"
+					],
+					[
+						"readm",
+						"README-OLD.md"
+					],
+					[
+						"index.html",
+						"app\\index.html"
+					],
+					[
+						"base",
+						"node_modules\\source-map\\lib\\source-map\\base64.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 279.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": "/E/MobileLive/CP-TMP-REPO/Ericsson-OrderCapture.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/E/MobileLive/CP-TMP-REPO/Ericsson-OrderCapture.sublime-workspace",
+			"/E/MobileLive/CP-TMP-REPO/ericsson.sublime-workspace"
+		]
+	}
+}

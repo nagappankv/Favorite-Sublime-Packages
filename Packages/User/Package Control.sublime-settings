@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoFileName",
+		"Autoprefixer",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Github Tools",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JavaScript Console",
+		"JavaScript Patterns",
+		"JavaScript Snippets",
+		"JSCS-Formatter",
+		"JSLint",
+		"Package Control",
+		"Seti_UI",
+		"Themr"
+	]
+}
